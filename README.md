@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Paolo Gennaro (aka zFireFist01)
 - 👀 I’m a Computer Science Engineer 
-- 🌱 I’m currently doing a Master in Computer Science at Politecnico di Milano
+- 🌱 I’m currently doing a Master in Computer Science and Engineering at Politecnico di Milano
 - 📫 How to reach me: paologennaro7@gmail.com
